@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react"; // no necesario a partir de 2020 -> React 17, pero si con hooks u otros elementos mas complejos
 import "../hojas-de-estilo/Testimonio.css";
 
 function Testimonio(props) {
